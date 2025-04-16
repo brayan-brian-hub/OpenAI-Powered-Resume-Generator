@@ -28,7 +28,7 @@ On Linux/Mac:
 On Windows:
 set OPENAI_API_KEY=your-api-key
 4.	Run the application:
-   python app.p
+   python app.py
 5.	Visit the application:
 Open your web browser and go to http://127.0.0.1:5000.
 
