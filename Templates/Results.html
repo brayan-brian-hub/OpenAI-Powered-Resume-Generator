@@ -2,14 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AI-Powered Resume Generator</title>
+    <title>Generated Resume</title>
 </head>
 <body>
-    <h1>AI-Powered Resume Generator</h1>
-    <form method="post">
-        <label for="prompt">Enter your resume details (e.g., job title, skills, experience):</label><br>
-        <textarea name="prompt" rows="10" cols="50" placeholder="Type your resume details here..."></textarea><br>
-        <input type="submit" value="Generate Resume">
-    </form>
+    <h1>Your Generated Resume</h1>
+    <p><strong>Input:</strong> {{ prompt }}</p>
+    <pre>{{ resume }}</pre>
+    <a href="{{ url_for('index') }}">Generate Another Resume</a>
 </body>
 </html>
