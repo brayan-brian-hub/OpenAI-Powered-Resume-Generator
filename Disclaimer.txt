@@ -1,0 +1,18 @@
+Disclaimer
+
+This tool is for educational purposes. Use the OpenAI API responsibly in accordance with OpenAI’s usage policies.
+---
+
+## ⚙️ Environment Variables and Deployment
+
+- **Environment Variable:**  
+  You must set your `OPENAI_API_KEY` as an environment variable to run this project.
+  
+- **Deployment Options:**  
+  This project can be deployed on any platform that supports Python web apps, such as Heroku, DigitalOcean, or AWS. For portfolio purposes, even running it locally and capturing screenshots/gifs is sufficient.
+
+---
+
+This API integration project will illustrate your ability to combine web development with powerful API usage. Feel free to modify the prompt processing, styling, or add further features (like PDF export) as you see fit.
+
+Let me know if you’d like any adjustments or if you have any questions!
