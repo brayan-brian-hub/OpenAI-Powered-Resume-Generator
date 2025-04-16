@@ -18,7 +18,7 @@ This is a simple Flask web application that uses the OpenAI API to generate a re
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai_resume_generator.git
+   git clone https://github.com/brayan-brian-hub/ai_resume_generator.git
    cd ai_resume_generator
 2.	Install dependencies:
    pip install -r requirements.txt
